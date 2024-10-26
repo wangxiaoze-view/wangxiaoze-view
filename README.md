@@ -1,8 +1,12 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&center=true&vCenter=true&random=true&width=435&lines=console.log(%22Hello%EF%BC%8CWorld%22)" alt="Typing SVG" /></a>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=wangxiaoze-view&show_icons=true&count_private=true&theme=ambient_gradient" align="right" />
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&center=true&vCenter=true&random=true&width=435&lines=console.log(%22Hello%EF%BC%8CWorld%22)" alt="Typing SVG" />
+</a>
+
+
+<a href="https://github.com/wz99390">
+  <img src="https://github-profile-trophy.vercel.app/?username=wz99390&theme=onedark&column=5"  align="right"/>
+</a>
 
 <h3>Hi,</h3>
 <p>🔭 I’m wangxiaoze, a front-end developer</p>
@@ -14,3 +18,4 @@
   <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" />
   <img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
 </p>
+
